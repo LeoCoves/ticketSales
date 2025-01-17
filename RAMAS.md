@@ -1,4 +1,5 @@
-
+# https://www.youtube.com/watch?v=U1u2jNYXmBw
+Ver video de node con react
 ¡Claro! Es excelente que quieras trabajar con ramas en Git para tu proyecto. Esto es una buena práctica para evitar conflictos y asegurarte de que el código en main siempre esté en buen estado. Te voy a explicar cómo pueden trabajar en paralelo con ramas, integrar sus cambios y finalmente fusionarlos en main cuando todo esté listo.
 
 # Conceptos Básicos
